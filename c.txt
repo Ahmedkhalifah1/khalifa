@@ -1,0 +1,43 @@
+<html>
+    
+    <head>
+        <title>Ahmed khalifa </title>
+    </head>
+
+    <body>
+<!--start nav-->
+
+        <a href=+https://www.w3schools.com" target="_blank">Home &nbsp; &nbsp;</a>
+        <a href="#" target="_blank" >Students List &nbsp; &nbsp; </a>
+        <a href="#" target="_blank" >New &nbsp; Student &nbsp; &nbsp;</a>
+        <!--end nav-->
+
+        <!--start section-->
+<hr/>
+<table border="1">
+    <tr>
+<td>ID</td>
+<td>Name</td>
+<td>Image</td>
+    </tr>
+
+
+  <tr>
+<td>20206262</td>
+<td>Ahmed khalifa</td>
+<td>Image</td>
+    </tr>
+
+</table>
+   
+<hr>
+        <!--end section-->
+
+<!--start footer-->
+ <a href ="#">&copy; Future University in Egypt &nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="mailto:20206262@fue.edu.eg">&nbsp;&nbsp;&nbsp;&nbsp; contact us</a>
+<!--end footer-->
+
+</body>
+
+</html>
