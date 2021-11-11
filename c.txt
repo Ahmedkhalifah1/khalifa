@@ -25,7 +25,7 @@
   <tr>
 <td>20206262</td>
 <td>Ahmed khalifa</td>
-<td>Image</td>
+<td>img src="images(1).jpg </td>
     </tr>
 
 </table>
